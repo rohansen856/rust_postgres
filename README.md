@@ -52,8 +52,7 @@ actix-rt = "1.0.0"
 
 ## License
 
-Code by Kyle Jensen in this repo is available under the 
-[Unlicense](https://unlicense.org/). The code by the Actix
+The code by the Actix
 authors is under an Apache license [here](https://github.com/actix/examples/blob/master/LICENSE).
 "# rust_full_backend" 
 "# rust_full_backend" 
